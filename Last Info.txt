@@ -1,0 +1,33 @@
+ADD
+---------------
+1) Add All Data With on string of days, leavtime and attend time 
+2) Create New Table For Each Teacher (Day, Month, Year, Attend, Leave)
+Notes
+-------------- 
+Attend Record Between (7 AM To 3 PM)
+Leave Record Between (8 AM to 6 PM)
+-------------------------------------------------------------------------------------------------------------
+Delete 
+---------------
+Delete the (ADD) Two TAbles 
+-------------------------------------------------------------------------------------------------------------
+
+Attend
+----------------
+1) Empty 
+2) Right Bar Code ID 
+3) Teacher Day 
+4) Not Recorded Attend Before 
+Make the Attend With all data and leave word with (Not Recored) 
+------------------------------------------------------------------------------------------------------------- 
+Leave
+-------------------
+1) Empty
+2) Right Bar Code ID
+3) Teacher Day 
+4) Not Recorded Attendace Before 
+5) Not Recorded Leave Time Before 
+Make the same row in the data base updated by the leave time 
+------------------------------------------------------------------------------------------------------------- 
+Note All Time in the programme format of h : m tt;
+
